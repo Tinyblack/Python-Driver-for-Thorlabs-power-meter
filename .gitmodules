@@ -1,0 +1,3 @@
+[submodule "GlobalLogger"]
+	path = GlobalLogger
+	url = git@github.com:Tinyblack/GlobalLogger.git
